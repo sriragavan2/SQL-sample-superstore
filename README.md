@@ -4,7 +4,7 @@ This project analyzes sales, profitability, customer segments, and product perfo
 
 ## 🗂️ Files Included
 - `schema.sql` → Creates database + tables
-- `sample_-_superstore.csv ` → All datas in one file with separate sheets
+- `sample_-_superstore.csv ` → All datas in one file 
 - `analysis-queries.sql` → Analysis queries
 - `README.md` → Project documentation
 
